@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rouma-writes
-- 👀 I’m interested in Technical writing...
-- 🌱 I’m currently learning python...
+- 👀 I’m interested in Technical and creative writing
+- 🌱 I’m currently learning HTML
 
 
 <!---
